@@ -1,0 +1,39 @@
+web design, responsive web design, front-end design/ development 
+html,css, js, jq, bootstrap
+
+image to html
+psd to html
+pdf/text/doc to html
+layout/sketch/blueprint to html
+figma to html
+xd to html
+url/web to html
+
+website redesign
+
+image to html
+
+analysis
+	asset gathering
+		logo
+		icon
+		image
+		text
+		font
+
+	layout define
+	section define
+
+coding-----
+	code commenting
+	semantic markup
+	reuse..block
+	seo opt code
+	speed opt code
+	cross browser support
+	cross plateform support 
+
+color 008AFF
+     3E3C55
+	css hierarchy 
+	pixel perfect
